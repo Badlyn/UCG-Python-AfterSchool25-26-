@@ -1,0 +1,5 @@
+print("Hello, im really really rad")
+print("and uh, haha did i mention i was rad")
+print("I'm like, 17 years old")
+print("My favorite hobby is drawing!!!!!!!!!")
+print("I like to friggan eat tacos haha")
